@@ -1,9 +1,7 @@
 # Project Name
-This project is ________. (Describe the main goals of the project. Limit to 1-2 sentences)
+This is the "Generating Keywords for Search Campaigns" project on Datacamp.
 
 ## Description
-Optional section to provide a more detailed overview of the project.
+The purpose of this project is to identify a list of keywords that would hlep a client sell the listed products through a search campaign.
 
-## Getting Started
-Optional section to summarize important steps and how to use the project & apps in the project
 
